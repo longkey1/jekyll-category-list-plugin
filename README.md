@@ -1,5 +1,5 @@
 # Category list plugin for Jekyll 
-This  plugin was referred to [Octopress - Category List Plug-in](http://www.dotnetguy.co.uk/post/2012/06/25/jekyll-category-list-plugin/).
+This  plugin was referred to [Jekyll - Category List Plug-in](http://www.dotnetguy.co.uk/post/2012/06/25/jekyll-category-list-plugin/).
 
 ## How to install
 
@@ -15,7 +15,8 @@ This  plugin was referred to [Octopress - Category List Plug-in](http://www.dotn
 
 or by gem command
 
-    gem install amazon-ecs i18n
+    gem install stringex
+
 ### Get category_list_tag.rb
 
     cd /path/to/plugins
